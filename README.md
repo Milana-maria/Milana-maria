@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Milana Maria Mathew 👋
 
-<!--
-**Milana-maria/Milana-maria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Computer Science Student
 
-Here are some ideas to get you started:
+💻 Learning Java, Python, C & Data Structures  
+🚀 Building projects and improving my programming skills  
+🌱 Exploring software development and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+- Java
+- Python
+- C
+- Data Structures
+- Git & GitHub
+
+## 📂 Projects
+
+### ☕ Java Projects
+Projects developed while learning Java and object-oriented programming.
+
+### 🐍 Python Projects
+Programming exercises and projects built with Python.
+
+### 🌳 Data Structures
+Implementations and practice programs covering different data structures.
+
+## 📚 Currently Learning
+
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Git & GitHub
+- Software Development
+
+## 🎯 Goals
+
+- Build more real-world projects
+- Improve my programming skills
+- Learn new technologies
+- Build a strong software development portfolio
+
+---
+
+⭐ Thanks for visiting my profile!
